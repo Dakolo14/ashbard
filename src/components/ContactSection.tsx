@@ -16,15 +16,17 @@ export function ContactSection() {
             <div className="space-y-6">
               <div>
                 <h3 className="text-xl font-semibold text-[#0f172a]">Office</h3>
-                <p className="mt-3 text-[#475569]">Lagos, Nigeria</p>
+                <p className="mt-3 text-[#475569]">
+                  18, Chief Nwuke Street, Trans Amadi, Port Harcourt, Nigeria
+                </p>
               </div>
               <div>
                 <h3 className="text-xl font-semibold text-[#0f172a]">Email</h3>
-                <p className="mt-3 text-[#475569]">connect@ashbardenergy.com</p>
+                <p className="mt-3 text-[#475569]">info@ashbardenergy.com</p>
               </div>
               <div>
                 <h3 className="text-xl font-semibold text-[#0f172a]">Phone</h3>
-                <p className="mt-3 text-[#475569]">+234 800 000 0000</p>
+                <p className="mt-3 text-[#475569]">+234-908-142-0853</p>
               </div>
             </div>
           </div>
